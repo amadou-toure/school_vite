@@ -1,0 +1,29 @@
+.card{
+    max-width: 600;
+    margin: 0 auto;
+ }
+ .grid{
+  padding: 80px 5px 0 5px;
+ 
+ }
+ .form{
+     margin-top: 5%;
+     margin-bottom: 5%;
+     margin-left: 10%;
+     margin-right: 10%;
+     height: 100%;
+ }
+ .formTitle{
+     display: flex;
+     justify-content: center;
+ }
+ .buttonGrid{
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: space-around;
+ }
+ .buttonGrid Button{
+     width: 30%;
+ }
+ 

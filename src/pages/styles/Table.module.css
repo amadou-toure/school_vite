@@ -1,0 +1,18 @@
+.tableBox{
+    max-width: 600;
+    margin: 0 auto;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.table{
+    height: auto;
+    background-color: aliceblue;
+    
+
+}
+.header{
+    background-color: #1976d2;
+    color: aliceblue;
+    font-weight: 900;
+    justify-items: center;
+}
